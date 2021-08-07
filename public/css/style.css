@@ -1,12 +1,12 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
 
 :root {
-  --dark-color-a: linear-gradient(to right, #9966ff 0%, #ccccff 32%);
-  --dark-color-b: linear-gradient(to bottom right, #9966ff 0%, #ccccff 46%);
-  --dark-color-c: linear-gradient(to bottom right, #ccccff 0%, #9966ff 63%);
+  --dark-color-a: #082032;
+  --dark-color-b: #2c394b;
+  --dark-color-c: #082032;
   --light-color: #e6e9ff;
   --success-color: #5cb85c;
-  --error-color: #d9534f;
+  --error-color: #ff4c29;
 }
 
 * {
